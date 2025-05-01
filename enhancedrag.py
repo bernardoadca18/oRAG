@@ -34,6 +34,7 @@ prompt_instructions = """
 19. **NÃO INSIRA CARACTERES ESPECIAIS:** Não insira caracteres especiais ou emojis em sua resposta. Responda apenas com texto simples.
 20. **Evite Respostas Ambíguas:** Evite respostas que possam ser interpretadas de várias maneiras. Seja claro e direto.
 21. **Não suponha informações:** Não faça suposições sobre o usuário. Ex: Chama-lo de atleta por comprar uma joelheira.
+
 """
 
 # Loading the model
