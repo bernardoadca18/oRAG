@@ -33,7 +33,7 @@ def load_csv(filename : str) -> list:
         print(f"An error occurred while reading the file {filename}: {e}")
     return doc_list
 
-documents = load_csv(DOC_PATH + "catalog_products.csv")
+documents = load_csv(DOC_PATH + "FILE.csv")
 
 print("Loaded documents:")
 for doc in documents:
